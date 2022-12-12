@@ -36,3 +36,4 @@
 
 Email: support@discord.band
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/496569904527441921)](https://discord.com/users/496569904527441921)
