@@ -40,4 +40,4 @@
 
 Email: support@discord.band
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naneynonn)](https://github.com/anuraghazra/github-readme-stats)
